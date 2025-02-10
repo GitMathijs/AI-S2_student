@@ -1,4 +1,4 @@
-# Verantwoordingsdocument[](title-id) <br> Fundamentals of AI (AI-S2)
+# Verantwoordingsdocument[](title-id) Fundamentals of AI (AI-S2)
 
 
 [comment]: # (Instructie: vul onderstaande velden in. 'Bijeenkomst' is peilmoment 1, peilmoment 2 of beslismoment.)
