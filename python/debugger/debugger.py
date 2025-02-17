@@ -7,6 +7,7 @@ x = 2
 
 class Student:
     def __init__(self, name, age=20):
+        global x
         print(id(name))
         name = "Davis"
         self.name = name
