@@ -95,7 +95,5 @@ class Rational:
 
         if a:
             self.numerator //= a
-            self.denominator /= a
-        
-        self.denominator = int(self.denominator)
-        self.numerator = int(self.numerator)
+            self.denominator //= a
+
