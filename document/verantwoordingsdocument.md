@@ -37,7 +37,7 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+[L&W-I - Equivalentiebewijs](https://canvas.hu.nl/courses/44855/assignments/328080/submissions/249041)
 
 [comment]: # (Portfolio-items peilmoment 2)
 
@@ -71,11 +71,9 @@
 
 > Kennis & vaardigheden: beperkte bronnen, functioneren van een computer, computerprocessen, geheugenmanagement
 
-* [Mijn eerste portfolio-item](https://canvas.hu.nl/courses/44855/assignments/339122)
-
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+[Mijn eerste portfolio-item](https://canvas.hu.nl/courses/44855/assignments/339122)
 
 [comment]: # (Portfolio-items peilmoment 2)
 
@@ -93,7 +91,7 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+[PROG-II - Debugger](https://canvas.hu.nl/courses/44855/assignments/328060/submissions/249041)
 
 [comment]: # (Portfolio-items peilmoment 2)
 
