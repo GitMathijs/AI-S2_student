@@ -15,7 +15,11 @@
 
 [comment]: # (Inleiding peilmoment 1)
 
----
+De afgelopen periode heb ik de deadlines van de opdrachten gehaald. Ik ben op tijd begonnen met mijn opdrachten waardoor ik ze op tijd af gekregen heb. Het programmeren ging goed; ik heb het idee dat ik beter geworden ben in het procedureel programmeren en dat ik het object-georiënteerd paradigma beter begrijp.
+
+Ik heb een paar feedbacksessies en lessen gemist. Ik heb deze feedbacksessies zelf thuis gedaan, maar dit heb ik te laat gedaan waardoor het niet meer nagekeken wordt (ik wist niet dat daar een tijdslimiet op zat). Ook heb ik niet nauwkeurig genoeg gewerkt bij het analyse-deel van de API-Requests opdracht.
+
+Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke les aanwezig te zijn, en als dat niet lukt meld ik me bij de docent af (vooral belangrijk bij projectlessen). Ik zorg dat ik feedback op opdrachten zo snel mogelijk verwerk, nu dat ik weet dat daar ook een tijdslimiet op zit. Ook wil ik nauwkeuriger worden in het analyseren van code om slordigheidsfoutjes te voorkomen.
 
 [comment]: # (Inleiding peilmoment 2)
 
@@ -204,7 +208,9 @@
 
 [comment]: # (Beschrijving attitudes peilmoment 1)
 
----
+Communicatief: Ik heb vaker vragen gesteld aan de docent(en) wanneer iets niet duideijk was. Ook heb ik een paar keer wat aan een klasgenoot gevraagd, of een vraag van een klasgenoot beantwoord.
+
+Verbeteringsgericht en doorzettend: Ik heb mezelf voorgenomen om alle ingeleverde opdrachten te verbeteren waar nodig.
 
 [comment]: # (Beschrijving attitudes peilmoment 2)
 
