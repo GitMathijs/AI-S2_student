@@ -5,8 +5,8 @@
 
 * **Studentnummer**: 1833628
 * **Naam**: Mathijs de Jong
-* **Bijeenkomst**:
-* **Datum**:
+* **Bijeenkomst**: peilmoment 1
+* **Datum**: 18/03/2025
 
 
 ## Inleiding
@@ -43,6 +43,8 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 [L&W-I - Equivalentiebewijs](https://canvas.hu.nl/courses/44855/assignments/328080/submissions/249041)
 
+[PROG-III - Mastering Mastermind](https://canvas.hu.nl/courses/44855/assignments/328065/submissions/249041)
+
 [comment]: # (Portfolio-items peilmoment 2)
 
 ---
@@ -59,7 +61,9 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 [comment]: # (Portfolio-items peilmoment 1)
 
----
+[PROG-III - Mastering Mastermind](https://canvas.hu.nl/courses/44855/assignments/328065/submissions/249041)
+
+[PROG-IV - Skip-bo in objecten](https://canvas.hu.nl/courses/44855/assignments/336600)
 
 [comment]: # (Portfolio-items peilmoment 2)
 
