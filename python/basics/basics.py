@@ -34,3 +34,4 @@ print(eerste_verschil("Hallo", "Hallu"))
 
 #1.1.c
 # test commit
+# test commit 2
