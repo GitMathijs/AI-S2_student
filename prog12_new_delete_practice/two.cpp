@@ -44,6 +44,7 @@ struct Enemy {
     }
     ~Enemy() {
         s_deletions_count++; // count+1 for deletion of Enemy object itself
+        delete[]name;
     }
 };
 
@@ -71,6 +72,11 @@ int main() {
 
     std::cout << "Before deletion" << std::endl;
     enemies_print(enemies, nr_enemies);
+
+    for (int i; i < nr_enemies; i++) {
+        delete enemies[i];
+    }
+    delete[] enemies;
 
     std::cout << s_allocations_count << " allocations." << std::endl;
     std::cout << s_deletions_count << " deletions." << std::endl;
