@@ -5,8 +5,8 @@
 
 * **Studentnummer**: 1833628
 * **Naam**: Mathijs de Jong
-* **Bijeenkomst**: peilmoment 1
-* **Datum**: 18/03/2025
+* **Bijeenkomst**: peilmoment 2
+* **Datum**: 06/05/2025
 
 
 ## Inleiding
@@ -23,7 +23,11 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 [comment]: # (Inleiding peilmoment 2)
 
----
+De afgelopen periode heb mijn aanwezigheid verbeterd. Ik ben vaker aanwezig geweest bij de lessen dan in de eerste periode. Ik ben bij bijna alle projectlessen aanwezig geweest om met mijn team standups te doen en andere zaken omtrent het project te bespreken. Ik heb alle deadlines voor de opdrachten en diens feedbacksessies gehaald. Ook heb ik wat vaker vragen gesteld, en klassikale vragen beantwoord tijdens de lessen.
+
+Ik zou nog wat beter kunnen plannen. Zo is het me tijdens de eerste sprint van het project niet gelukt om de portalen volledig te implementeren. Dit had te maken met het feit dat ik afhankelijk was van de code van een teamgenoot. Ik had beter kunnen communiceren om dit probleem te voorkomen. Naarmate de periode vorderde ben ik wel wat beter gaan communiceren.
+
+Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed blijven communiceren met mijn teamgenoten over projectzaken, bijvoorbeeld wanneer mijn userstory afhankelijk is van dat van een teamgenoot. Ik wil ook actief blijven meedoen in de lessen door bijvoorbeeld vragen te beantwoorden, en vragen te stellen wanneer ik iets niet begrijp.
 
 [comment]: # (Inleiding beslismoment)
 
@@ -47,7 +51,7 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 [comment]: # (Portfolio-items peilmoment 2)
 
----
+[HW-I - Logisch Redeneren en Hardware ontwerpen](https://canvas.hu.nl/courses/44855/assignments/328406/submissions/249041)
 
 [comment]: # (Portfolio-items beslismoment)
 
@@ -67,7 +71,7 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 [comment]: # (Portfolio-items peilmoment 2)
 
----
+[PROG-V - Statically Typed Programming](https://canvas.hu.nl/courses/44855/assignments/328074/submissions/249041)
 
 [comment]: # (Portfolio-items beslismoment)
 
@@ -85,7 +89,7 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 [comment]: # (Portfolio-items peilmoment 2)
 
----
+[HW-I - Logisch Redeneren en Hardware ontwerpen](https://canvas.hu.nl/courses/44855/assignments/328406/submissions/249041)
 
 [comment]: # (Portfolio-items beslismoment)
 
@@ -103,7 +107,7 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 [comment]: # (Portfolio-items peilmoment 2)
 
----
+[PROG-V - Statically Typed Programming](https://canvas.hu.nl/courses/44855/assignments/328074/submissions/249041)
 
 [comment]: # (Portfolio-items beslismoment)
 
@@ -152,7 +156,7 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 [comment]: # (Portfolio-items peilmoment 2)
 
----
+Ik heb geen specifiek algoritme onderzocht en uitgewerkt voor het project. Wel heb ik het een en ander over de werking van pygame onderzocht, zoals het checken voor user input en tekenen naar het scherm.
 
 [comment]: # (Portfolio-items beslismoment)
 
@@ -168,7 +172,11 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 [comment]: # (Portfolio-items peilmoment 2)
 
----
+Het is me gelukt om de stories die ik toegewezen gekregen heb af te maken. Bij de story 'portalen' kostte dit me meer tijd dan verwacht. We hebben deze story daarom een sprint doorgeschoven, inmiddels is deze wel af. Mijn andere stories zijn zonder problemen op tijd afgemaakt.
+
+Mijn story 'verdeel mainloop op in functies' in sprint 2 heb ik bijzonder goed ingevuld. Deze story had een urgente prioriteit, omdat mijn teamgenoten afhankelijk waren van mijn code. Ik ben er daarom gelijk mee begonnen op dag 1 van de sprint. Ik heb er 3 dagen achter elkaar aan gewerkt, zodat het zo snel mogelijk af was en mijn teamgenoten konden voortbouwen op mijn code. Door deze userstory op tijd af te maken heb ik laten zien dat ik organiserend vermogen heb.
+
+In de retrospective van sprint 1 heb ik een 'goed' bij technische bijdrage. Bij de retrospective van sprint 2 heb ik een 'voldoende', en als pluspunt dat ik teamleden altijd liet weten wanneer een taak af was en gecommit & gepusht was.
 
 [comment]: # (Portfolio-items beslismoment)
 
@@ -184,7 +192,15 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 [comment]: # (Portfolio-items peilmoment 2)
 
----
+De communicatie met mijn groepsgenoten is goed verlopen. In de eerste sprint had ik een wat actievere houding aan kunnen nemen toen ik afhankelijk was van een userstory van een teamlid, maar ik heb me hierin verbeterd. In de 2e sprint heb ik bijvoorbeeld duidelijk aangegeven wanneer ik een userstory af had. Daarnaast heb ik regelmatig vragen van teamgenoten beantwoord in onze groepschat, en ook zelf om hulp gevraagd toen ik tegen problemen aan liep. Ook ben ik bij (bijna) alle standups geweest, deze zijn goed verlopen.
+
+De story 'verdeel mainloop op in functies' heb ik goed ingevuld en bijgehouden. Dit heb ik in de eerste week van sprint 2 gedaan.
+
+Tijdens de demo's heb ik positieve feedback van het docententeam ontvangen voor mijn spraakvolume, en het krijgen/vasthouden van aandacht.
+
+In sprint 1 heb ik van mijn groep het pluspunt 'Duidelijk gecommuniceerd op momenten dat je afwezig bent, houdt
+de sfeer in de groep goed' gekregen, en in sprint 2 'Liet de teamleden altijd weten wanneer een taak af was en gecommit
+& gepusht was'.
 
 [comment]: # (Portfolio-items beslismoment)
 
@@ -193,13 +209,32 @@ Ik ga de komende periode werken aan mijn aanwezigheid. Ik ga proberen bij elke l
 
 > Student formuleert volgens instructie persoonlijke ambities en kwaliteiten en gebruikt andermans feedback om beargumenteerde keuzes te maken met het oog op de studieloopbaan. Student reflecteert op het eigen handelen en/of het handelen van individuele teamleden, haalt hiervoor feedback op bij peers en docenten, stelt eigen sterktes en verbeterpunten vast en vertaalt verbeterpunten naar concrete acties.
 
+[comment]: # (Dit professionele vermogen toon je aan als onderdeel van het project. Voorbeelden van documentatie die je kunt aanleveren om dit vermogen aan te tonen:)
+[comment]: # (- Bijgehouden feedback in Canvas. Noteer de feedback die je voor opdrachten krijgt ook in het commentaar voor Canvas;)
+[comment]: # (- De documentatie van de Sprint Review en Retrospective. Hier focussen we in beginsel op jullie peer assessments.)
+[comment]: # (Bezijdens het bovengenoemde kun je hier per peilmoment schriftelijk antwoord geven op de volgende vragen:)
+[comment]: # (- Wat voor een soort functie binnen de ICT zou je graag willen bekleden na je studie?)
+[comment]: # (- Is dit veranderd sinds de start van je opleiding en/of het vorige peilmoment?)
+[comment]: # (- Hoe heb je tot dusver taken kunnen oppakken binnen het project, die passen bij die functie?)
+[comment]: # (- Hoe kun je tot aan het volgende peilmoment meer van dat soort taken naar je toe trekken?)
+[comment]: # (- Wat zou voor jou het droombedrijf zijn om stage te lopen, en waarom?)
+
 [comment]: # (Portfolio-items peilmoment 1)
 
 ---
 
 [comment]: # (Portfolio-items peilmoment 2)
 
----
+Het is me gelukt om te ontwikkelen op het vlak van communicatie. Ik vind dat ik vragen en ideeen nu beter communiceer dan aan het begin van het project. Ook ben ik beter geworden in het programmeren in Python, in het bijzonder met de library Pygame. Ook heb ik goede oefening gehad met de scrum-werkwijze, door bijvoorbeeld mee te doen aan de daily standups.
+
+Beantwoording vragen:
+Ik weet nog niet precies wat voor functie in de ICT ik zou willen. Ik zie veel verschillende dingen die me leuk lijken. Bijvoorbeeld onderzoek doen naar AI, zelf AI ontwikkelen, data science met het oog op AI, AI gebruiken om bijvoorbeeld criminelen op te sporen of bedrijven adviseren op het gebruik van AI. Daarnaast lijkt reguliere software-development me ook leuk. Sinds de start van de opleiding zijn er eigenlijk alleen maar meer opties en ideeen bij gekomen.
+
+Bij al deze functies is communicatie en vaardigheid met code belangrijk. Tijdens het project heb ik het een en ander aan mijn communicatie verbeterd, en heb geoefend met het leren van een nieuwe python-library. Ik heb geoefend met het werken in een team volgens de scrum-methode. Ik ben niet erg bezig geweest met algoritmes, AI of data science, maar vooral met software-development.
+
+In de komende sprints zal ik sowieso blijven oefenen met communicatie en de scrum-methode. Ook zal ik meer te weten moeten komen over de pygame library om mijn stories af te maken. Ook is het de bedoeling dat ik nog een complexe functionaliteit / algoritme implementeer.
+
+Het lijkt me leuk om bij de politie stage te lopen. Ik heb altijd al een sterk gevoel voor gerechtigheid gehad. Criminelen opsporen met behulp van AI zou me denk ik een groot gevoel van voldoening geven.
 
 [comment]: # (Portfolio-items beslismoment)
 
@@ -218,7 +253,9 @@ Verbeteringsgericht en doorzettend: Ik heb mezelf voorgenomen om alle ingeleverd
 
 [comment]: # (Beschrijving attitudes peilmoment 2)
 
----
+Nauwkeurig: Ik heb nauwkeurig opdrachten gelezen en uitgevoerd. Bij de C++ opdrachten heb ik zo nauwkeurig mogelijk gewerkt, door bijvoorbeeld veel gebruik te maken van woorden als 'const', en het gebruik van references in functie-parameters.
+
+Verbeteringsgericht: Ik heb me gefocust op het verbeteren van communicatie in de 2e sprint. Ik heb vragen gesteld aan mijn teamgenoten, en ze op de hoogte gehouden van mijn progressie met userstories.
 
 [comment]: # (Beschrijving attitudes beslismoment)
 
