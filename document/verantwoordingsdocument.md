@@ -73,6 +73,8 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 
 [PROG-V - Statically Typed Programming](https://canvas.hu.nl/courses/44855/assignments/328074/submissions/249041)
 
+[PROG-VI - Memory Management](https://canvas.hu.nl/courses/44855/assignments/328076/submissions/249041)
+
 [comment]: # (Portfolio-items beslismoment)
 
 
@@ -90,6 +92,8 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 [comment]: # (Portfolio-items peilmoment 2)
 
 [HW-I - Logisch Redeneren en Hardware ontwerpen](https://canvas.hu.nl/courses/44855/assignments/328406/submissions/249041)
+
+[PROG-VI - Memory Management](https://canvas.hu.nl/courses/44855/assignments/328076/submissions/249041)
 
 [comment]: # (Portfolio-items beslismoment)
 
@@ -109,6 +113,8 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 
 [PROG-V - Statically Typed Programming](https://canvas.hu.nl/courses/44855/assignments/328074/submissions/249041)
 
+[PROG-VI - Memory Management](https://canvas.hu.nl/courses/44855/assignments/328076/submissions/249041)
+
 [comment]: # (Portfolio-items beslismoment)
 
 
@@ -124,7 +130,7 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 
 [comment]: # (Portfolio-items peilmoment 2)
 
----
+[PROG-VI - Memory Management](https://canvas.hu.nl/courses/44855/assignments/328076/submissions/249041)
 
 [comment]: # (Portfolio-items beslismoment)
 
