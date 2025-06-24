@@ -31,6 +31,12 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 
 [comment]: # (Inleiding beslismoment)
 
+De afgelopen periode heb ik goed met mijn gewerkt aan het project. Ik heb mijn best gedaan duidelijk te communiceren, ook wanneer ik ziek was en niet in de les aanwezig was. Daarnaast heb ik de laastste paar programmeeropdrachten gemaakt en zijn deze goedgekeurd. Ik ben tevreden over mijn werkhouding.
+
+Het persoonlijk plannen van huiswerk maken kan nog wat beter. Zo heb ik bij een paar sprints niet alle toegewezen stories af kunnen maken. Dit kwam gedeeltelijk omdat ik ziek was, maar het ligt ook een beetje aan mijn plannen. Hier wil ik volgend jaar nog wat beter op letten.
+
+Volgend jaar ga ik proberen deze goede communicatie en werkhouding vast te houden. Ook bij het volgende project wil ik goed met mijn groep samenwerken zodat we een mooi eindproduct kunnen opleveren.
+
 
 ## Leeruitkomsten
 
@@ -55,6 +61,10 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 
 [comment]: # (Portfolio-items beslismoment)
 
+[L&W-II - Verzamelingen](https://canvas.hu.nl/courses/44855/assignments/328082/submissions/249041)
+
+[L&W-III - Predicaatlogica & modellen](https://canvas.hu.nl/courses/44855/assignments/328081/submissions/249041)
+
 
 
 ### 2 - Procedureel en object-georiënteerd programmeren
@@ -77,6 +87,12 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 
 [comment]: # (Portfolio-items beslismoment)
 
+[PROG-VII - Domeinontwerp en -implementatatie](https://canvas.hu.nl/courses/44855/assignments/328077/submissions/249041)
+
+[DATA-I - Datamigratie Covidregistratie](https://canvas.hu.nl/courses/44855/assignments/352974/submissions/249041)
+
+[Wildcard](https://canvas.hu.nl/courses/44855/assignments/327466/submissions/249041)
+
 
 
 ### 3 - Computerarchitectuur
@@ -97,6 +113,8 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 
 [comment]: # (Portfolio-items beslismoment)
 
+[HW-II - Turing Complete](https://canvas.hu.nl/courses/44855/assignments/332867/submissions/249041)
+
 
 
 ### 4 - Coding skills
@@ -116,6 +134,12 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 [PROG-VI - Memory Management](https://canvas.hu.nl/courses/44855/assignments/328076/submissions/249041)
 
 [comment]: # (Portfolio-items beslismoment)
+
+[PROG-VII - Domeinontwerp en -implementatatie](https://canvas.hu.nl/courses/44855/assignments/328077/submissions/249041)
+
+[CODE-I - Git](https://canvas.hu.nl/courses/44855/assignments/328409/submissions/249041)
+
+[CODE-II - Scavenger Hunt](https://canvas.hu.nl/courses/44855/assignments/328675/submissions/249041)
 
 
 ### 5 - Datastructuren
@@ -151,6 +175,12 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 
 [comment]: # (Portfolio-items beslismoment)
 
+[L&W-II - Verzamelingen](https://canvas.hu.nl/courses/44855/assignments/328082/submissions/249041)
+
+[L&W-III - Predicaatlogica & modellen](https://canvas.hu.nl/courses/44855/assignments/328081/submissions/249041)
+
+[DATA-I - Datamigratie Covidregistratie](https://canvas.hu.nl/courses/44855/assignments/352974/submissions/249041)
+
 
 ### 7 - Onderzoekend vermogen
 
@@ -173,6 +203,8 @@ Ik ga de komende periode proberen veel aanwezig te blijven zijn. Ook wil ik goed
 Ik heb geen specifiek algoritme onderzocht en uitgewerkt voor het project. Wel heb ik het een en ander over de werking van pygame onderzocht, zoals het checken voor user input en tekenen naar het scherm.
 
 [comment]: # (Portfolio-items beslismoment)
+
+Ik heb onderzoek gedaan naar pathfinding in 2d platformer games. Het onderzoek is te vinden met [deze link](https://github.com/AI-S2-2025/gamedev-project-inspiratieloos/blob/main/research/matthijs_onderzoek_pathfinding_2d_platformers.docx)
 
 
 ### 8 - Organiserend vermogen
@@ -198,6 +230,7 @@ In de retrospective van sprint 1 heb ik een 'goed' bij technische bijdrage. Bij 
 
 [comment]: # (Portfolio-items beslismoment)
 
+Ik heb vanwege ziekte een paar stories moeten doorschuiven naar de volgende sprint, maar heb uiteindelijk alle stories die ik toegewezen heb gekregen afgemaakt. Hierdoor heb ik laten zien dat ik het organiserend vermogen heb om mijn taken te plannen en op tijd af te hebben.
 
 
 ### 9 - Interactief vermogen
@@ -228,6 +261,9 @@ de sfeer in de groep goed' gekregen, en in sprint 2 'Liet de teamleden altijd we
 
 [comment]: # (Portfolio-items beslismoment)
 
+De communicatie met mijn team is in de laatste paar weken goed verlopen. Ik heb hulp aangeboden waar het kon, en heb zelf ook om hulp gevraagd wanneer ik vast liep. Ik heb contact opgenomen met mijn groepsgenoten wanneer ik een userstory had die afhankelijk was van een groepsgenoot. Ook heb ik ideeen en suggesties gegeven voor het project waar mogelijk.
+
+Daarnaast ben ik scrum-master geweest, en heb ik deze rol prima ingevuld.
 
 ### 10 - (Zelf)lerend vermogen
 
@@ -262,6 +298,9 @@ Het lijkt me leuk om bij de politie stage te lopen. Ik heb altijd al een sterk g
 
 [comment]: # (Portfolio-items beslismoment)
 
+Ik heb me verder ontwikkeld in het programmeren in Python, specifiek met de Pygame library. Ook heb ik nu meer ervaring met het werken in groepsverband en onderlinge communicatie. Ik heb stappen gemaakt met het plannen van mijn taken, maar hier wil ik nog beter in worden.
+
+Ook heb ik ervaart hoe het is om met de scrum-methodiek te werken, door deel te nemen aan daily stand-ups en ook zelf scrum-master te zijn.
 
 ## Attitudes
 
@@ -283,3 +322,4 @@ Verbeteringsgericht: Ik heb me gefocust op het verbeteren van communicatie in de
 
 [comment]: # (Beschrijving attitudes beslismoment)
 
+concreet analytisch: Tijdens het project heb ik veel code van mijn groepsgenoten moeten lezen en begrijpen, zodat ik aanpassingen kon doen. Dit vereiste een analystische blik naar de code, om erachter te komen hoe het precies werkt. Ik denk dat ik hier beter in geworden ben doordat ik dit de afgelopen weken veel heb gedaan.
