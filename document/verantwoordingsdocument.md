@@ -322,4 +322,4 @@ Verbeteringsgericht: Ik heb me gefocust op het verbeteren van communicatie in de
 
 [comment]: # (Beschrijving attitudes beslismoment)
 
-concreet analytisch: Tijdens het project heb ik veel code van mijn groepsgenoten moeten lezen en begrijpen, zodat ik aanpassingen kon doen. Dit vereiste een analystische blik naar de code, om erachter te komen hoe het precies werkt. Ik denk dat ik hier beter in geworden ben doordat ik dit de afgelopen weken veel heb gedaan.
+Concreet analytisch: Tijdens het project heb ik veel code van mijn groepsgenoten moeten lezen en begrijpen, zodat ik aanpassingen kon doen. Dit vereiste een analystische blik naar de code, om erachter te komen hoe het precies werkt. Ik denk dat ik hier beter in geworden ben doordat ik dit de afgelopen weken veel heb gedaan.
