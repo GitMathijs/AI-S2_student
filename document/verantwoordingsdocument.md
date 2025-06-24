@@ -300,7 +300,7 @@ Het lijkt me leuk om bij de politie stage te lopen. Ik heb altijd al een sterk g
 
 Ik heb me verder ontwikkeld in het programmeren in Python, specifiek met de Pygame library. Ook heb ik nu meer ervaring met het werken in groepsverband en onderlinge communicatie. Ik heb stappen gemaakt met het plannen van mijn taken, maar hier wil ik nog beter in worden.
 
-Ook heb ik ervaart hoe het is om met de scrum-methodiek te werken, door deel te nemen aan daily stand-ups en ook zelf scrum-master te zijn.
+Ook heb ik ervaren hoe het is om met de scrum-methodiek te werken, door deel te nemen aan daily stand-ups en ook zelf scrum-master te zijn.
 
 ## Attitudes
 
